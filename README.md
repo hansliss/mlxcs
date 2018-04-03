@@ -1,4 +1,4 @@
-**Checksum verification for MLX machine code listings
+## Checksum verification for MLX machine code listings
 Usage:
 	mlxcs < tst.mlx
 
